@@ -14,7 +14,7 @@
   <br>
   <span><font size="5">🏠 São Carlos - SP 🇧🇷,</font></span>
   <br>
-  <span><font size="5">📓 Web Development Student @ Trybe</font></span>
+  <span><font size="5">📓 Web Development Student @ Trybe.</font></span>
   <br><br>
 </div>
 
