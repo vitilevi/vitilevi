@@ -6,9 +6,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitilevi&layout=compact&langs_count=16&theme=tokyonight" /> </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitilevi&theme=discord" alt="vitilevi" /></a>
-</p>
+
 
 <p>
   <span><font size="5"> 😄 25 years old,</font></span>
@@ -16,6 +14,8 @@
   <span><font size="5">🏠 São Carlos - SP 🇧🇷,</font></span>
   <br>
   <span><font size="5">📓 Web Development Student @ Trybe.</font></span>
+  <br>
+  <span><font size="5">🏢 Available to work!</font></span>
   <br>
 </p>
 
