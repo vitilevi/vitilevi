@@ -15,7 +15,7 @@
   <br>
   <span><font size="5">📓 Web Development Student at Trybe.</font></span>
   <br>
-  <span><font size="5">🏢 Summer Jobber at Trybe</font></span>
+  <span><font size="5">🏢 Summer Jobber at Trybe.</font></span>
   <br>
 </p>
 
