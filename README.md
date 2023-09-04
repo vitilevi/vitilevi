@@ -11,9 +11,7 @@
 <p>
   <span><font size="5"> 😄 27 years old,</font></span>
   <br>
-  <span><font size="5">🏠 São Carlos - SP 🇧🇷,</font></span>
-  <br>
-  <span><font size="5">🏢 Software Developer at Amdocs.</font></span>
+  <span><font size="5">🏠 São Carlos - SP 🇧🇷</font></span>
   <br>
 </p>
 
