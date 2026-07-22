@@ -10,9 +10,9 @@
 
 
 <p>
-  <span><font size="5"> 👨🏻‍💻 Fullstack Developer
+  <span><font size="5"> 👨🏻‍💻 Software Engineer
   <br>
-  <span><font size="5"> 😄 27 years old,</font></span>
+  <span><font size="5"> 😄 29 years old,</font></span>
   <br>
   <span><font size="5">🏠 São Carlos - SP 🇧🇷</font></span>
   <br>
